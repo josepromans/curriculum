@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+curriculum
+db.sqlite3
+.DS_Store
+
